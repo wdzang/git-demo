@@ -4,5 +4,5 @@ hello git zangweidi
 hello git zangweidi
 hello git zangweidi
 hello git zangweidi
-hello git zangweidi
+hello git zangweidi hot-fix text
 hello git zangweidi
